@@ -7,3 +7,14 @@ https://github.com/nwojke/cosine_metric_learning
 
 cuhk03 
 https://drive.google.com/open?id=1Qgz7eXFTP5Hi7hO1ew7ZWFSkh_vdl57e
+
+
+
+run :
+COS_softmax.py
+COS_triplet.py
+
+
+
+eval :
+top1.py
